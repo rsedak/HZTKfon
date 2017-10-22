@@ -1,2 +1,2 @@
 # HZTKfon
-Arduino GSM mobille phone software
+Arduino GSM mobile phone software
